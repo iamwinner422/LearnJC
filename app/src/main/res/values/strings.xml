@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LearnJC</string>
+    <string name="happy_birthday_text">Android My Friend</string>
+    <string name="signature_text">From Emma</string>
 </resources>
